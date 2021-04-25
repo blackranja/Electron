@@ -15,6 +15,12 @@ class RanjaRobot1{
         <meta name="viewport" content="width=device-width,initial-scale=1"/>
         <link rel="stylesheet" href="<?php echo $robotcss?>"/>
         <scrpt href="<?php echo $robotJs;?>"/>
-        </head></html>
+        <style type="text/css"> 
+        </style>
+        </head>
+        <body>
+        <div class="container">
+        <?php
+    
     }
 }

@@ -24,8 +24,38 @@ class RanjaRobot2{
         <img src="images/img2" alt="Another Electron Images Comes Here" width="100%">
         <div class="carousel-caption">
         <h1><i class="text-success">Ask For Developer</i><small>Have a developer develope for you...</small>
-        </div></div>
+        </h1>
         </div>
+        </div>
+        <div class="item">
+        <img src="images/img2" alt="Another Electron Images Comes Here" width="100%">
+        <div class="carousel-caption">
+        <h1><i class="text-success">Ask For Developer</i><small>Have a developer develope for you...</small>
+        </h1>
+        </div>
+        </div>
+        <div class="item">
+        <img src="images/img2" alt="Another Electron Images Comes Here" width="100%">
+        <div class="carousel-caption">
+        <h1><i class="text-success">Ask For Developer</i><small>Have a developer develope for you...</small>
+        </h1>
+        </div>
+        </div>
+        <div class="item">
+        <img src="images/img2" alt="Another Electron Images Comes Here" width="100%">
+        <div class="carousel-caption">
+        <h1><i class="text-success">Ask For Developer</i><small>Have a developer develope for you...</small>
+        </h1>
+        </div>
+        </div>
+        </div>
+        <a class="carousel-control left" href="#robotCarousel" data-slide="prev">
+        <span class=glyphicon glyphicon-chevron-left"></span>
+        </a>
+        <a class="carousel-control right" href="#robotCarousel" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right"></span></a>
+        </div>
+        <?php 
         }
 }
 
